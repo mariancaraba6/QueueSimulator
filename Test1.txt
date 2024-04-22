@@ -1,0 +1,128 @@
+Time 0
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 1
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 2
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 3
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 4
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 5
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 6
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 7
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 8
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 9
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 10
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 11
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 12
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 13
+Waiting clients: (3, 14, 3); (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: closed
+Query 2: closed
+
+Time 14
+Waiting clients: (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: (3, 14, 3); 
+Query 2: closed
+
+Time 15
+Waiting clients: (1, 16, 3); (2, 17, 3); (4, 18, 4); 
+Query 1: (3, 14, 2); 
+Query 2: closed
+
+Time 16
+Waiting clients: (2, 17, 3); (4, 18, 4); 
+Query 1: (3, 14, 1); 
+Query 2: (1, 16, 3); 
+
+Time 17
+Waiting clients: (4, 18, 4); 
+Query 1: (2, 17, 3); 
+Query 2: (1, 16, 2); 
+
+Time 18
+Waiting clients: 
+Query 1: (2, 17, 2); (4, 18, 4); 
+Query 2: (1, 16, 1); 
+
+Time 19
+Waiting clients: 
+Query 1: (2, 17, 1); (4, 18, 4); 
+Query 2: closed
+
+Time 20
+Waiting clients: 
+Query 1: (4, 18, 4); 
+Query 2: closed
+
+Time 21
+Waiting clients: 
+Query 1: (4, 18, 3); 
+Query 2: closed
+
+Time 22
+Waiting clients: 
+Query 1: (4, 18, 2); 
+Query 2: closed
+
+Time 23
+Waiting clients: 
+Query 1: (4, 18, 1); 
+Query 2: closed
+
+Time 24
+Waiting clients: 
+Query 1: closed
+Query 2: closed
+
+Average waiting time: 12.5
+Average service time: 3.25
+Peak hour: 18
